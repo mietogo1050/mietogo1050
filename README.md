@@ -5,11 +5,11 @@
 
 ## 🛠 スキル
 - **言語:** HTML, CSS, JavaScript
-- **ツール:** VS Code, Git, Slack
+- **ツール:** VS Code, Git, Slack,Canva,Backlog,PowerPoint,Excel(表計算）,
 - **興味があること:** フロントエンド開発, UI/UXデザイン
 
 ## 🚀 今後の目標
-- 🌱 レスポンシブ対応をマスターする
+- 🌱 UI/UXデザイン、レスポンシブ対応をマスターする
 - 🔭 個人開発で「●●アプリ」を作成したい
 - 📚 Webクリエイター能力検定試験エキスパートを取得する
 
