@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 こんにちは！ Mie Togo です
 
-<!--
-**mietogo1050/mietogo1050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webディレクターを経験したのち、フロントエンドエンジニアの技術取得のため勉強中です。
 
-Here are some ideas to get you started:
+## 🛠 スキル
+- **言語:** HTML, CSS, JavaScript
+- **ツール:** VS Code, Git, Slack
+- **興味があること:** フロントエンド開発, UI/UXデザイン
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 今後の目標
+- 🌱 レスポンシブ対応をマスターする
+- 🔭 個人開発で「●●アプリ」を作成したい
+- 📚 Webクリエイター能力検定試験エキスパートを取得する
+
+## 📬 連絡先
+- **Mail:** [mietogo55@gmail.com](mietogo55@gmail.com)
+---
+### 📊 GitHub Stats
+<!-- あなたのGitHubユーザー名に書き換えると、グラフが表示されます -->
+![Stats](https://github-readme-stats.vercel.app/api?username=mietogo1050&show_icons=true&theme=flat)
