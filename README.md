@@ -17,5 +17,4 @@
 - **Mail:** [mietogo55@gmail.com](mietogo55@gmail.com)
 ---
 ### 📊 GitHub Stats
-<!-- あなたのGitHubユーザー名に書き換えると、グラフが表示されます -->
-![Stats](https://github-readme-stats.vercel.app/api?username=mietogo1050&show_icons=true&theme=flat)
+[https://github-readme-stats.vercel.app/api?username=mietogo1050](https://github-readme-stats.vercel.app/api?username=mietogo1050)
